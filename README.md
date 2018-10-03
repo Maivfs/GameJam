@@ -1,1 +1,1 @@
-GameJam
+GameJam Beer
